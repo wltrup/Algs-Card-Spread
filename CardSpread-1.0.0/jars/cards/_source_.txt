@@ -1,0 +1,1 @@
+Card images were downloaded from <http://en.wikipedia.org/wiki/Playing_card>, resized to 63x85 pixels, then converted to BMP files.
